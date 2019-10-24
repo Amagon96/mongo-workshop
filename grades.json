@@ -1,0 +1,37 @@
+{
+    "_id": {
+        "$oid": "56d5f7eb604eb380b0d8d8fa"
+    },
+    "class_id": {
+        "$numberDouble": "173"
+    },
+    "scores": [
+        {
+            "score": {
+                "$numberDouble": "19.81430597438296"
+            },
+            "type": "exam"
+        },
+        {
+            "score": {
+                "$numberDouble": "16.851404299968642"
+            },
+            "type": "quiz"
+        },
+        {
+            "score": {
+                "$numberDouble": "60.108751761488186"
+            },
+            "type": "homework"
+        },
+        {
+            "score": {
+                "$numberDouble": "22.886167083915776"
+            },
+            "type": "homework"
+        }
+    ],
+    "student_id": {
+        "$numberDouble": "4"
+    }
+}

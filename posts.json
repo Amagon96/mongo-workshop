@@ -1,0 +1,48 @@
+{
+    "_id": {
+      "$oid": "50ab0f8bbcf1bfe2536dc3f9"
+    },
+    "author": "machine",
+    "body": "Amendment I\n<p>Congress shall make no law respecting ...  ",
+    "comments": [
+        {
+            "author": "Santiago Dollins",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing...",
+            "email": "HvizfYVx@pKvLaagH.com"
+        },
+        {
+            "author": "Jaclyn Morado",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing...",
+            "email": "WpOUCpdD@hccdxJvT.com"
+        },
+        {
+          "author": "Jeremy Fork",
+          "body": "Lorem ipsum dolor sit amet, consectetur adipisicing...",
+          "email": "ofjwJRJ3@jtos.com"
+        },
+        {
+          "author": "John S. Kentucky",
+          "body": "Lorem ipsum dolor sit amet, consectetur adipisicing...",
+          "email": "wh3r3th3m@gik@b3g1n5.com"
+        }
+    ],
+    "date": {
+      "$date": {
+        "$numberLong": "1332804016000"
+      }
+    },
+    "permalink": "aRjNnLZkJkTyspAIoRGe",
+    "tags": [
+        "watchmaker",
+        "santa",
+        "xylophone",
+        "math",
+        "handsaw",
+        "dream",
+        "undershirt",
+        "dolphin",
+        "tanker",
+        "action"
+    ],
+    "title": "Bill of Rights"
+}

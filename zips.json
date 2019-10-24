@@ -1,0 +1,13 @@
+{
+  "_id": {
+    "$oid": "5c8eccc1caa187d17ca6ed29"
+  },
+  "city": "CLEVELAND",
+  "loc": {
+      "x": 86.559355,
+      "y": 33.992106
+  },
+  "pop": 2369,
+  "state": "AL",
+  "zip": "35049"
+}

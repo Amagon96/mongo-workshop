@@ -1,0 +1,44 @@
+{
+    "_id": {
+      "$oid": "4ba2681f238d3ba3ca000065"
+    },
+    "comments": 79,
+    "container": {
+        "name": "Science",
+        "short_name": "science"
+    },
+    "description": "Today's youth are generally not the self-centered,...",
+    "diggs": 493,
+    "href": "http://digg.com/general_sciences/Study_Today_s_youth_a...",
+    "id": "19955283",
+    "link": "http://www.brainmysteries.com/research/Study_Todays_yo...",
+    "media": "news",
+    "promote_date": 1268866803,
+    "shorturl": [
+        {
+            "short_url": "http://digg.com/d31LjHP",
+            "view_count": 2109
+        }
+    ],
+    "status": "popular",
+    "submit_date": 1268725903,
+    "thumbnail": {
+        "contentType": "image/jpeg",
+        "height": 80,
+        "originalheight": 232,
+        "originalwidth": 350,
+        "src": "http://digg.com/general_sciences/Study_Today_s_youth_...",
+        "width": 80
+    },
+    "title": "Study: Today's youth aren't ego-driven slackers after all ",
+    "topic": {
+        "name": "General Sciences",
+        "short_name": "general_sciences"
+    },
+    "user": {
+        "icon": "http://digg.com/users/lekahe/l.png",
+        "name": "lekahe",
+        "profileviews": 63011,
+        "registered": 1187263066
+    }
+}

@@ -1,0 +1,17 @@
+{
+   "_id": {
+     "$oid": "56d61033a378eccde8a8357e"
+   },
+   "address": {
+       "city": "LAWRENCE",
+       "number": 1,
+       "street": "BAY BLVD",
+       "zip": 11559
+   },
+   "business_name": "SPRAGUE OPERATING RESOURCES LLC.",
+   "certificate_number": 3019422,
+   "date": "Mar  3 2015",
+   "id": "11247-2015-ENFO",
+   "result": "Fail",
+   "sector": "Fuel Oil Dealer - 814"
+}

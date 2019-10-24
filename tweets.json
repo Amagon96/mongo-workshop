@@ -1,0 +1,67 @@
+{
+  "_id": {
+    "$oid": "5c8eccb0caa187d17ca62433"
+  },
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Sep 02 18:11:30 +0000 2010",
+  "entities": {
+      "hashtags": [
+          {
+              "indices": [
+                  0,
+                  16
+              ],
+              "text": "IEGreekStepShow"
+          }
+      ],
+      "urls": [],
+      "user_mentions": []
+  },
+  "favorited": false,
+  "geo": null,
+  "id": "22819404700",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id": null,
+  "place": null,
+  "retweet_count": null,
+  "retweeted": false,
+  "source": "<a href=\"http://blackberry.com/twitter\" ...",
+  "text": "#IEGreekStepShow I'm there.. Are you?",
+  "truncated": false,
+  "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Apr 13 23:24:53 +0000 2009",
+      "description": "We are a team of people who specialize in: ...",
+      "favourites_count": 11,
+      "follow_request_sent": null,
+      "followers_count": 988,
+      "following": null,
+      "friends_count": 1371,
+      "geo_enabled": false,
+      "id": 30990697,
+      "lang": "en",
+      "listed_count": 29,
+      "location": "ANYWHERE We are NEEDED!!!",
+      "name": "Juan Young II",
+      "notifications": null,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://a1.twimg.com/profile_backg...",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a2.twimg.com/profile_images/110364584...",
+      "profile_link_color": "CC3300",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F7DA93",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "juanyoungonline",
+      "show_all_inline_media": false,
+      "statuses_count": 14804,
+      "time_zone": "Pacific Time (US & Canada)",
+      "url": "http://www.hard2please-ent.com",
+      "utc_offset": -28800,
+      "verified": false
+  }
+}
